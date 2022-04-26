@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994321663841",
+    "project_id": "exam-portal-5e09c",
+    "storage_bucket": "exam-portal-5e09c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994321663841:android:40187918ae4c59cbede720",
+        "android_client_info": {
+          "package_name": "com.myapk.examportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994321663841-6fdsir2ii6j87s731sjfav4qmvi627pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAPyqxxrow8VQ0gsjVd1Av3RlavP-vpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994321663841-6fdsir2ii6j87s731sjfav4qmvi627pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
